@@ -1,2 +1,6 @@
-# rust-todo-list
-A console app I made when I first started learning Rust. This still has a ton of bugs, so I might come back and refactor the code. 
+# Rust TODO List
+
+## How It Works
+- The TODO list creates an sqlite db file in a specified directory.
+- You are given a menu, wherein you can _add_, _edit_, _toggle_, and _delete_ task items (Just some basic CRUD).
+
